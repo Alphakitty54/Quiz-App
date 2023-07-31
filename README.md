@@ -15,3 +15,12 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 ### Typescript
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+
+
+## Preview Of Project
+
+![image](https://github.com/Alphakitty54/Quiz-App/assets/79658668/1185a67b-94ad-470f-b2c0-cb1a71bc1e66)
+
+## Working Link
+https://64a5a89edea1440aebcdfd29--glittering-tapioca-e8d804.netlify.app/
+
